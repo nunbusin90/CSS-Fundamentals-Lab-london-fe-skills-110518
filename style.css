@@ -24,7 +24,10 @@ nav a {
   text-align: center;
 }
 
-#details > div {
+#detials {
   display: block;
+}
+
+#details > div {
   float: left;
 }
