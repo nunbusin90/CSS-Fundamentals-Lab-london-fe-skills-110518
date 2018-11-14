@@ -24,9 +24,12 @@ nav a {
   text-align: center;
 }
 
-#details > div {
+#detials {
   display: block;
   float: left;
+}
+
+#details > div {
   background: grey;
   text-align: center;
   padding-bottom: 25%;
