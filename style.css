@@ -24,10 +24,13 @@ nav a {
   text-align: center;
 }
 
-#detials {
+#details > div {
   display: block;
+  float: left;
 }
 
-#details > div {
-  float: left;
+footer div {
+  background: grey;
+  text-align: center;
+  padding-bottom: 25%;
 }
