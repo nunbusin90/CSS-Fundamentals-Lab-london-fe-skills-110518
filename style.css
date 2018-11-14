@@ -27,9 +27,6 @@ nav a {
 #details > div {
   display: block;
   float: left;
-}
-
-footer div {
   background: grey;
   text-align: center;
   padding-bottom: 25%;
