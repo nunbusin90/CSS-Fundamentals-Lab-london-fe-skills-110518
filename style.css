@@ -10,11 +10,15 @@ header {
 
 img {
   margin: auto;
-  max-width: 100%;
+  width: 100%;
 }
 
 nav a {
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey;
+}
+
+p#featured-property {
+  text-align: center;
 }
